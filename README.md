@@ -16,4 +16,4 @@ Hello Newbie can be used to demonstrate the total power of the computers.
 ------- IGNORE WHEN PACKAGING -------------------
 
 PS: this code can have some problems and was developed to help in Debian
-    packaging lessons. Please, don't open bugs in this project.
+    packaging lessons. Please, don't open bugs against this project.
