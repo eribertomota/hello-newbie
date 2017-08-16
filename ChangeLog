@@ -1,6 +1,7 @@
 v0.2  2017-0-16
 
 * Fixed a grammatical error.
+* Using autoreconf in redo.sh.
 * Vanished the source code.
 
 v0.1  2015-09-10
