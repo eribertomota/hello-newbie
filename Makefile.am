@@ -12,5 +12,6 @@ distclean-local:
 	configure \
 	depcomp \
 	install-sh \
+	INSTALL \
 	Makefile.in \
 	missing
