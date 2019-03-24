@@ -1,4 +1,8 @@
-v0.2  2017-0-16
+v0.3  2019-03-24
+
+* Changed licensing.
+
+v0.2  2017-08-16
 
 * Fixed a grammatical error.
 * Improved the 'make distclean' action.
